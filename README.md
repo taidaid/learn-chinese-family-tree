@@ -17,6 +17,8 @@ Knowing what to call a family relative in Chinese can be difficult, especially w
 - Allow scrolling down for younger generations
 - Click for more info, e.g. alternative naming in dialects
 - Search for an equivalent in English, e.g. User searches "cousin" and all possible "cousins" are highlighted
+- Show how the logical partitions are used to determine naming, e.g. generation, father's/mother's lineage
+- Allow nodes to be moved around to create custom family trees with appropriate naming
 
 ---
 
