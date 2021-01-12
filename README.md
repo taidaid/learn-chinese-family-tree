@@ -1,3 +1,25 @@
+# Learn the Chinese Family Tree
+
+## Purpose
+
+Knowing what to call a family relative in Chinese can be difficult, especially when compared to English. This app seeks to make it easy to understand how to name a relative by partitioning the family tree by gender, age, father's/mother's lineage, blood/in-law, and generation.
+
+## Resources
+
+- [Chinese Family Tree 1](http://blog.tutorming.com/mandarin-chinese-learning-tips/family-tree-relatives-in-chinese)
+- [Chinese Family Tree 2](https://ltl-school.com/complicated-chinese-family-tree/)
+
+## Objectives
+
+- Create a family tree using circular nodes with portraits
+- Focus app on "You"
+- Allow scrolling up for older generations
+- Allow scrolling down for younger generations
+- Click for more info, e.g. alternative naming in dialects
+- Search for an equivalent in English, e.g. User searches "cousin" and all possible "cousins" are highlighted
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
